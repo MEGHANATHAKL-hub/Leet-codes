@@ -14,3 +14,13 @@
  * counter() // 11
  * counter() // 12
  */
+
+function a(b) {
+    console.log("hi"+b)
+}
+
+function a(b) {
+    console.log("bye"+b)
+}
+
+a(2);
