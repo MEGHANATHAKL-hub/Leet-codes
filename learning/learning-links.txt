@@ -1,0 +1,1052 @@
+Links	Status	Links	Priority		Reading List		Mock																			
+NodeJS					https://medium.com/@ionut-anghel/rest-endpoint-best-practices-every-developer-should-know-24b0c1d0088f		https://youtu.be/4PlK1rtpFXY?si=Y7UKutrzv3JvAw3f																			
+https://intellipaat.com/blog/interview-question/web-developer-interview-questions/	OPEN				https://pinjarirehan.medium.com/why-node-js-is-the-ultimate-game-changer-for-backend-development-26415839bbe2																					
+https://www.youtube.com/watch?v=TtPsUq09OZU&list=PLdHg5T0SNpN2c0j8ggRFUU4iRxVznozWt	CLOSED				https://levelup.gitconnected.com/8-advanced-javascript-interview-questions-for-senior-roles-c59e1b0f83e1																					
+Top 100+ Node.js Interview Questions and Answers for 2023 | Simplilearn	OPEN																									
+https://www.javatpoint.com/node-js-interview-questions	OPEN																									
+https://www.interviewbit.com/node-js-interview-questions/	OPEN																									
+https://www.toptal.com/nodejs/interview-questions	OPEN																									
+https://www.fullstack.cafe/blog/node-js-interview-questions	OPEN																									
+https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/	OPEN																									
+https://hackr.io/blog/node-js-interview-questions	OPEN																									
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+Angular																										
+https://www.simplilearn.com/tutorials/angular-tutorial/angular-interview-questions	OPEN																									
+https://github.com/sudheerj/angular-interview-questions	OPEN																									
+https://www.interviewbit.com/angular-interview-questions/	OPEN																									
+https://flexiple.com/angular/interview-questions/	OPEN																									
+https://intellipaat.com/blog/interview-question/angular-interview-questions/?US	OPEN																									
+https://www.javatpoint.com/top-angular-interview-questions	OPEN																									
+https://www.edureka.co/blog/interview-questions/top-angularjs-interview-questions/	OPEN																									
+https://hackr.io/blog/angular-interview-questions	OPEN																									
+https://www.devteam.space/hiring-interview-tips/angular-interview-questions-and-answers/	OPEN																									
+https://www.fullstack.cafe/interview-questions/angular	OPEN																									
+https://medium.com/@garcia.alberto.4.2012/angular-interview-questions-e7f35237acd1	OPEN																									
+																										
+																										
+SQL																										
+https://www.interviewbit.com/sql-interview-questions/	OPEN																									
+																										
+Bookmarked																										
+https://stateful.com/blog/15-tips-and-tricks-of-vs-code																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+EXTRA LEARNINGS																										
+setImmeadieat()	CLOSED																									
+process.nexttick()	CLOSED																									
+streaming in nodejs	CLOSED																									
+custom pipe creation	CLOSED																									
+checking load in server	CLOSED	Load testing, geo grapical, perfomance bottel necks, server&db logs, check for commanilities																								
+reducing the page loading time 	CLOSED	https://www.syncfusion.com/blogs/post/improve-load-time-angular-app.aspx																								
+custome directives	CLOSED	https://www.freecodecamp.org/news/angular-directives-learn-how-to-use-or-create-custom-directives-in-angular-c9b133c24442/																								
+diffrence between promise /await	CLOSED	https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/race																								
+How to handle the large data with Nodejs	CLOSED	https://stateful.com/blog/process-large-files-nodejs-streams																								
+Logging & Monitoring	OPEN	https://blog.appsignal.com/2021/11/24/7-ways-to-improve-nodejs-performance-at-scale.html																								
+AOT&JIT	CLOSED	https://www.code-sample.com/2023/02/aot-vs-jit-angular-compilation.html#:~:text=Ahead%2Dof%2DTime%20(AOT)%3A%20Compiles%20your%20application,just%20before%20it%20is%20executed.																								
+State Management in Angular	OPEN																									
+REPL	CLOSED	https://nodejs.dev/en/learn/how-to-use-the-nodejs-repl/#:~:text=Note%3A%20REPL%20stands%20for%20Read,quickly%20test%20simple%20JavaScript%20code.																								
+Fs module	OPEN																									
+Process in NodeJS	CLOSED	https://www.freecodecamp.org/news/node-process-object-explained/																								
+Buffer in Nodejs	CLOSED	https://www.geeksforgeeks.org/what-is-buffer-in-node-js/																								
+Nodejs features	CLOSED																									
+Angular features	CLOSED																									
+Expert in mongo db	OPEN																									
+how to handle the verison miss match in angular?	CLOSED	https://www.geeksforgeeks.org/how-does-npm-handle-version-conflicts/																								
+How to secure the application in gcp	CLOSED																									
+Take a glimps of the azure	CLOSED																									
+Whats the exec or child process in nodejs	CLOSED	https://www.geeksforgeeks.org/node-js-child-process/																								
+forkjoin() in angular	CLOSED	https://medium.com/@swarnakishore/performing-multiple-http-requests-in-angular-4-5-with-forkjoin-74f3ac166d61#:~:text='forkJoin'%20waits%20for%20each%20HTTP,many%20HTTP%20calls%20as%20required.																								
+syntax of custome directive	CLOSED	https://www.freecodecamp.org/news/angular-directives-learn-how-to-use-or-create-custom-directives-in-angular-c9b133c24442/																								
+syntax of pipes	CLOSED																									
+Observables understanding	CLOSED	https://blog.logrocket.com/guide-rxjs-observables/																								
+diffrence between component/directive	CLOSED																									
+write multiplication program with observables	CLOSED																									
+Rank in query	OPEN		2																							
+Azure	OPEN		2																							
+GCP	OPEN		2																							
+Switchmap, tapmap, pipe, subscirbe	CLOSED	https://offering.solutions/blog/articles/2019/10/20/tap-map-switchmap-explained/	1																							
+sql	OPEN		1																							
+prototype	OPEN		1																							
+MethodeOverding	OPEN		1																							
+Interface in ts	CLOSED		1																							
+Dynamic function in js	OPEN		1																							
+collassis in query	OPEN		2																							
+create password validator using plane js	OPEN		1																							
+prepare mock interviews	OPEN		1																							
+call,apply,bind	CLOSED	https://www.digitalocean.com/community/conceptual-articles/understanding-this-bind-call-and-apply-in-javascript	1																							
+Shallow vs deep copying	CLOSED	https://medium.com/version-1/cloning-an-object-in-javascript-shallow-copy-vs-deep-copy-fa8acd6681e9																								
+process, threads, cluster	CLOSED	https://blogs.brain-mentors.com/differences-between-child-process-workers-and-clusters-in-nodejs/#:~:text=In%20summary%2C%20child_process%20allows%20you,that%20share%20the%20same%20port.																								
+Unit testing-frontend	OPEN																									
+Unit testing-backend	OPEN																									
+Deburth	OPEN																									
+Browser compatible	OPEN																									
+Timer modules	CLOSED	https://www.geeksforgeeks.org/node-js-timers-module/																								
+why should be seperate express and server	CLOSED	https://dev.to/superiqbal7/separating-app-and-server-in-express-why-it-matters-and-how-it-benefits-your-application-149d																								
+diffrence between spawn exc	CLOSED																									
+Nodejs performance improvement	CLOSED	https://blog.appsignal.com/2021/11/24/7-ways-to-improve-nodejs-performance-at-scale.html																								
+Generators	CLOSED	https://www.digitalocean.com/community/tutorials/understanding-generators-in-javascript																								
+difference between require and import	CLOSED	https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/#:~:text=require()%20vs%20import()%20Functions&text=The%20two%20major%20differences%20are,the%20beginning%20of%20the%20file.																								
+diffrence between object.create and normal object	CLOSED																									
+controling the size of the post request	CLOSED																									
+global values in nodejs	CLOSED																									
+map & set objects in js	CLOSED	https://www.digitalocean.com/community/tutorials/understanding-map-and-set-objects-in-javascript																								
+middlewares	CLOSED	https://expressjs.com/en/guide/using-middleware.html																								
+hostlistener																										
+																										
+																										
+																										
+SYSTEM DESIGN																										
+https://www.interviewbit.com/system-design-interview-questions/	OPEN																									
+https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0	OPEN																									
+https://dev.to/javinpaul/my-favorite-system-design-interview-questions-and-coding-problems-4m2j	OPEN																									
+https://igotanoffer.com/blogs/tech/system-design-interviews	OPEN																									
+https://hackr.io/blog/system-design-interview-questions	OPEN																									
+https://www.fullstack.cafe/blog/system-design-interview-questions	OPEN																									
+https://www.educative.io/blog/top-10-system-design-interview-questions	OPEN																									
+																										
+																										
+HTML																										
+https://www.mygreatlearning.com/blog/html-interview-questions/	OPEN																									
+https://www.edureka.co/blog/interview-questions/top-50-html-interview-questions-and-answers/	OPEN																									
+https://intellipaat.com/blog/interview-question/html-interview-questions/	OPEN																									
+https://www.shiksha.com/online-courses/articles/top-html-interview-questions-and-answers/	OPEN																									
+																										
+																										
+CSS																										
+https://www.simplilearn.com/tutorials/css-tutorial/css-interview-questions	OPEN																									
+https://www.interviewbit.com/css-interview-questions/	OPEN																									
+https://intellipaat.com/blog/interview-question/css-interview-questions/	OPEN																									
+https://www.edureka.co/blog/interview-questions/css-interview-questions/	OPEN																									
+https://mindmajix.com/css3-interview-questions	OPEN																									
+																										
+																										
+DATABASE																										
+Mongo DB	OPEN	https://www.mongodb.com/docs/realm/sdk/node/app-services/query-mongodb/#:~:text=To%20find%20a%20single%20document,it%20finds%20in%20the%20collection.																								
+																										
+																										
+																										
+																										
+Task																										
+https://stackoverflow.com/questions/67190239/trying-to-stream-videos-in-angular-from-node-js																										
+																										
+https://stackoverflow.com/questions/4241992/video-streaming-over-websockets-using-javascript																										
+https://ably.com/topic/webrtc-vs-websocket#:~:text=WebRTC%20is%20primarily%20designed%20for,using%20formats%20such%20as%20JSON.																										
+																										
+																										
+																										
+																										
+JS																										
+https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/																										
+																										
+																										
+																										
+																										
+M-Plan																										
+mysql	OPEN																									
+rest apis	OPEN																									
+nodejs	OPEN																									
+angular	OPEN																									
+js coding	OPEN																									
+																										
+																										
+																										
+																										
+																										
+DS AND ALGO IN JS																										
+Linkdlist		https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/																								
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
